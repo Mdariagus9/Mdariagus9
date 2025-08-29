@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Ari Agus  
 
-<!--
-**Mdariagus9/Mdariagus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at TRPL (Teknologi Rekayasa Perangkat Lunak)  
+💻 Aspiring Web Developer & Software Engineer  
+📱 Interested in Mobile Development  
+🐍 Learning Python along with Web Development  
+🚀 Open to Collaboration and Contributions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML | CSS | JavaScript  
+- Python (Beginner)  
+- Mobile (Learning basics of Android & Flutter)  
+- Learning: Node.js, Express, Git  
+
+---
+
+## 📂 Featured Projects
+*(Coming soon — I’m rebuilding my repositories from scratch!)*  
+
+---
+
+## 📊 GitHub Stats
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdariagus9&show_icons=true&theme=radical)
+
+---
+✨ *Learning today, building tomorrow* ✨
